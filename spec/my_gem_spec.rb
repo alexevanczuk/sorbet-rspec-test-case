@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# typed: true
 
 RSpec.describe MyGem do
   it "has a version number" do
