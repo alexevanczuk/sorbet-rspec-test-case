@@ -97,3 +97,5 @@ module RSpec
     end
   end
 end
+
+def pry; end
